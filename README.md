@@ -1,1 +1,1 @@
-My first readme
+This is the second README file for the second alx project
