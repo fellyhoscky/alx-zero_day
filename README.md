@@ -1,1 +1,1 @@
-This is the second README file for the second alx project
+This Project is the starting point for our software engineering at ALX
